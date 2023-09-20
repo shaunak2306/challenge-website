@@ -1,0 +1,16 @@
+/*THIS FILE IS LINKED TO 8.1) External css.html*/
+
+h1{
+    color: crimson;
+    background-color: bisque;
+}
+.cdet{
+    color: coral;
+    background-color: antiquewhite;
+    font-size: medium;
+    font-style: italic;
+}
+img{
+    height: 5cm;
+    width: 7cm;
+}
